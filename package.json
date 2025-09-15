@@ -1,0 +1,45 @@
+{
+  "name": "discord-giveaways-s",
+  "description": "Advanced module for creating and managing giveaways in Discord bots.",
+  "version": "3.0.0",
+  "author": "Shadow",
+  "license": "Apache-2.0",
+  "type": "module",
+  "discord": "https://discord.gg/9HYB4n3Dz4",
+  "main": "./src/index.js",
+  "module": "./src/index.js",
+  "exports": {
+    ".": {
+      "import": "./src/index.js",
+      "require": "./src/index.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadoow051/discord-giveaways-s.git"
+  },
+  "funding": [
+    {
+      "type": "tipply",
+      "url": "https://tipply.pl/@shadow64gg"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/shadoow051/discord-giveaways-s/issues"
+  },
+  "homepage": "https://github.com/shadoow051/discord-giveaways-s#readme",
+  "keywords": [
+    "discord-giveaways-s"
+  ],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "files": [
+    "src",
+    "LICENSE",
+    "README.md"
+  ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "0fe61bd1392bed3",
+    "prize": "nowa nagroda",
+    "description": "opis",
+    "duration": 15000,
+    "numberOfWinners": 1,
+    "minParticipants": 1,
+    "maxParticipants": null,
+    "blacklist": [],
+    "participants": ["1", "2", "3", "4", "5", "shadow"],
+    "participantCount": 6,
+    "joinCount": 0,
+    "leaveCount": 0,
+    "winners": [],
+    "rerolledWinners": [],
+    "createdAt": 1757782347570,
+    "startedAt": null,
+    "endedAt": 1757793288033,
+    "startedBy": "",
+    "endedBy": "",
+    "authorId": "Shadow",
+    "guildId": "",
+    "channelId": "",
+    "messageId": "",
+    "status": "waiting",
+    "customInfo": {}
+  }
+]

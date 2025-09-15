@@ -1,0 +1,17 @@
+export const Events = {
+  GiveawayCreated: "giveawayCreated",
+  GiveawayDeleted: "giveawayDeleted",
+  AllGiveawaysDeleted: "allGiveawaysDeleted",
+  GiveawayStarted: "giveawayStarted",
+  GiveawayPaused: "giveawayPaused",
+  GiveawayResumed: "giveawayResumed",
+  GiveawayEnded: "giveawayEnded",
+  WinnersDrawn: "winnersDrawn",
+  WinnersRerolled: "winnersRerolled",
+  GiveawayFetched: "giveawayFetched",
+  AllGiveawaysFetched: "allGiveawaysFetched",
+  GiveawayEdited: "giveawayEdited",
+  ParticipantAdded: "participantAdded",
+  ParticipantRemoved: "participantRemoved",
+  ParticipantsFetched: "participantsFetched",
+};
